@@ -18,7 +18,7 @@ This project automates the deployment of a secure, monitored web server on AWS u
 ## 📸 Screenshots
 
 ### ✅ Terraform Output
-![Terraform Output](screenshots/Screenshot-from-2025-04-25-10-09-28.png)
+![Terraform Output](screenshots/terraform.png)
 
 ### 🌐 Nginx Welcome Page
 ![Nginx Web](screenshots/nginx.png)
